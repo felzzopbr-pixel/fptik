@@ -1,0 +1,6 @@
+{
+  "name": "FPTIK",
+  "description": "TikTok Video Downloader",
+  "requestFramePermissions": ["clipboard-read", "clipboard-write"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
